@@ -1,2 +1,2 @@
 # ken
-this is my repository 
+hello im ken
